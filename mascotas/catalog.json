@@ -1,0 +1,46 @@
+{
+  "SchemaVersion": 1,
+  "Items": [
+    {
+      "Kind": "pet",
+      "Id": "rex.trex-oceano",
+      "Name": "T-Rex Océano",
+      "Version": "1.0.0",
+      "MinimumRexVersion": "0.9.0",
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/mascota-oceano-1.0.0/trex-oceano-1.0.0.rexpet",
+      "Sha256": "923d15f86055b4c62dd15cb4635f60c35403c437d35ed32ba559522a86550455",
+      "Size": 7875304,
+      "Changes": [
+        "Primera edición independiente del T-Rex Océano."
+      ]
+    },
+    {
+      "Kind": "pet",
+      "Id": "rex.trex",
+      "Name": "T-Rex",
+      "Version": "1.1.0",
+      "MinimumRexVersion": "0.9.1",
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/mascotas-1.1.0/trex-1.1.0.rexpet",
+      "Sha256": "e6fbab38f96b1a3dd87fab0f085b8ffab6846c64a12f964aa8966d7d9d6da406",
+      "Size": 9389824,
+      "Changes": [
+        "Auriculares y lentes integrados en ocho fotogramas musicales.",
+        "Se retiraron los accesorios flotantes."
+      ]
+    },
+    {
+      "Kind": "pet",
+      "Id": "rex.trexa",
+      "Name": "T-Rexa",
+      "Version": "1.1.0",
+      "MinimumRexVersion": "0.9.1",
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/mascotas-1.1.0/trexa-1.1.0.rexpet",
+      "Sha256": "dad9cddbece64366858641ec57f8df5a4fd294f24063c6b9a7d733d3c7e4bff1",
+      "Size": 8734534,
+      "Changes": [
+        "Auriculares y lentes integrados en ocho fotogramas musicales.",
+        "Atlas propios con moño, pestañas, labios y uñas pintadas."
+      ]
+    }
+  ]
+}
