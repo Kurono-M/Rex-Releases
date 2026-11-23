@@ -41,6 +41,21 @@
         "Auriculares y lentes integrados en ocho fotogramas musicales.",
         "Atlas propios con moño, pestañas, labios y uñas pintadas."
       ]
+    },
+    {
+      "Kind": "pet",
+      "Id": "rex.reika",
+      "Name": "Reika",
+      "Version": "1.0.0",
+      "MinimumRexVersion": "0.10.0",
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.10.0/reika-1.0.0.rexpet",
+      "Sha256": "b4a10442de069c675b0825cee36450634b19a334f926f7b3f0600efb4feb650b",
+      "Size": 11006622,
+      "Changes": [
+        "Primera edición de Reika: 18 secuencias y 288 fotogramas.",
+        "Reposo, paseo, gestos, expresiones, descanso y despertar.",
+        "Escucha musical en sillón con auriculares y lentes negros; pausa y salida animadas."
+      ]
     }
   ]
 }
