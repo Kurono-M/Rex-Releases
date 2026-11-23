@@ -5,19 +5,17 @@
       "Kind": "rex",
       "Id": "rex",
       "Name": "Rex",
-      "Version": "0.9.1",
+      "Version": "0.10.0",
       "MinimumRexVersion": "0.9.0",
-      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.9.1/Rex.0.9.1.exe",
-      "Sha256": "7747c58df51e7f6ff874abca1c64875b56fcc48a14bf221c3ce624a68a5d0012",
-      "Size": 86721060,
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.10.0/Rex.0.10.0.exe",
+      "Sha256": "4de5207900cf4d83a05eab4229989d4601f070259f60f4460fff3699709c0284",
+      "Size": 86728824,
       "Changes": [
-        "T-Rex y T-Rexa reproducen ocho fotogramas musicales propios con auriculares y lentes integrados.",
-        "T-Rexa tiene atlas independientes de reposo, paseo, sueño, poses y acciones, con moño, pestañas, labios y uñas pintadas.",
-        "Los paquetes predeterminados tienen versión 1.1.0 y pueden recibir versiones nuevas independientes del programa.",
-        "Se elimina la superposición genérica de auriculares y lentes.",
-        "Spotify comprueba la disponibilidad de contenido protegido y diferencia incompatibilidad, permiso rechazado y audio todavía no iniciado.",
-        "Se agrega diagnóstico manual de reproducción y apertura opcional en navegador; no se asegura reproducción dentro de WebView2 cuando no ofrece Widevine.",
-        "Al abrir Spotify o YouTube Music se selecciona ese servicio para los controles generales, incluso antes de que comience el audio."
+        "Selector de voz de Windows con idioma, muestra, velocidad y volumen; se puede dejar sin voz.",
+        "Soporte de mascotas con animaciones ampliadas, conservando los paquetes anteriores.",
+        "Reika se descarga por separado: 18 secuencias y 288 fotogramas.",
+        "Escena musical con sillón, auriculares y lentes negros; pausa sentada y retirada al detener.",
+        "Estimación aproximada del ritmo desde el medidor de salida, sin grabar ni guardar audio."
       ]
     }
   ]
