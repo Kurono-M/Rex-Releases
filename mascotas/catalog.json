@@ -46,15 +46,17 @@
       "Kind": "pet",
       "Id": "rex.reika",
       "Name": "Reika",
-      "Version": "1.0.0",
-      "MinimumRexVersion": "0.10.0",
-      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.10.0/reika-1.0.0.rexpet",
-      "Sha256": "b4a10442de069c675b0825cee36450634b19a334f926f7b3f0600efb4feb650b",
-      "Size": 11006622,
+      "Version": "1.1.0",
+      "MinimumRexVersion": "0.11.0",
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.11.0/reika-1.1.0.rexpet",
+      "Sha256": "1f86a5fce043bad43f0749600f71a5d879b41ea3ad46b23bbb5aa06f0d02f751",
+      "Size": 15181576,
       "Changes": [
-        "Primera edición de Reika: 18 secuencias y 288 fotogramas.",
-        "Reposo, paseo, gestos, expresiones, descanso y despertar.",
-        "Escucha musical en sillón con auriculares y lentes negros; pausa y salida animadas."
+        "Caminata con alternancia de brazos y descanso sostenido sin cabeceos.",
+        "Tamaño aumentado un 25% y registro uniforme de las animaciones.",
+        "19 secuencias corporales: 304 fotogramas; ocho estados del rostro: 32 fotogramas.",
+        "Retrato junto al chat: bienvenida, escritura, envío, pensamiento, respuesta, agradecimiento y error.",
+        "Actualizar primero Rex a 0.11.0."
       ]
     }
   ]
