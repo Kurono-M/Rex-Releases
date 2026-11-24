@@ -5,17 +5,17 @@
       "Kind": "rex",
       "Id": "rex",
       "Name": "Rex",
-      "Version": "0.10.0",
+      "Version": "0.11.0",
       "MinimumRexVersion": "0.9.0",
-      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.10.0/Rex.0.10.0.exe",
-      "Sha256": "4de5207900cf4d83a05eab4229989d4601f070259f60f4460fff3699709c0284",
-      "Size": 86728824,
+      "Url": "https://github.com/Kurono-M/Rex-Releases/releases/download/v0.11.0/Rex.0.11.0.exe",
+      "Sha256": "5010539999a00f0bb9d733c5f7662383e0f3e8f6011761b1dff9d5baeb2e40b4",
+      "Size": 86737005,
       "Changes": [
-        "Selector de voz de Windows con idioma, muestra, velocidad y volumen; se puede dejar sin voz.",
-        "Soporte de mascotas con animaciones ampliadas, conservando los paquetes anteriores.",
-        "Reika se descarga por separado: 18 secuencias y 288 fotogramas.",
-        "Escena musical con sillón, auriculares y lentes negros; pausa sentada y retirada al detener.",
-        "Estimación aproximada del ritmo desde el medidor de salida, sin grabar ni guardar audio."
+        "Reika un 25% más grande, con escala uniforme entre poses.",
+        "Caminata con brazos alternados y descanso completo sostenido.",
+        "Ventana del rostro de Reika junto al chat con ocho estados de expresión.",
+        "Recuperación de mascotas ocultas accidentalmente o fuera de pantalla; reproducción sin fotogramas vacíos.",
+        "Requiere actualizar también Reika a 1.1.0 para recibir los nuevos recursos."
       ]
     }
   ]
